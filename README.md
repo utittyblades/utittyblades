@@ -1,16 +1,21 @@
-## Hi there 👋
+NOTICE TO ALL PERSONS, ORGANIZATIONS, CORPORATIONS, AGENCIES,
+FOUNDATIONS, COLLECTIVES, ALGORITHMS, AND OTHER ENTITIES
 
-<!--
-**utittyblades/utittyblades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You are viewing proprietary material belonging exclusively to the author.
 
-Here are some ideas to get you started:
+Access does not imply authorization.
+Visibility does not imply permission.
+Availability does not imply license.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All intellectual property rights are reserved.
+
+No rights are granted except the right to read materials as presented.
+Any reproduction, adaptation, extraction, redistribution, automation,
+commercialization, or derivative use requires prior written approval from the
+author.
+
+Unauthorized use is prohibited.
+
+Proceed accordingly.
+
+→ stoliver ←
